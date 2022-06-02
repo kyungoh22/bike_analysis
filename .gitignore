@@ -1,7 +1,10 @@
 2011-capitalbikeshare-tripdata
 2012-capitalbikeshare-tripdata
 cleaned_data
-cleaned_data
 *.pdf
 *.docx
 data
+station_loc.csv
+station_information.json
+list
+shp_files
