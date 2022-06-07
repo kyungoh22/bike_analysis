@@ -8,3 +8,8 @@ station_loc.csv
 station_information.json
 list
 shp_files
+DC_map_2011.html
+presentation
+*.html
+*.png
+.json
