@@ -7,11 +7,11 @@
 
 ### 2) EDA 
 
-#### Part 1: User behaviour analysis
+#### EDA Part 1: User behaviour analysis
 * Covers the years 2011–2012
 * Analyse number of rides in relation to date-time and weather conditions
 
-#### Part 2: Time series analysis
+#### EDA Part 2: Time series analysis
 * Covers the years 2011–2019
 * Analyse trend and seasonality in the number of rides by registered and non-registered customers
 
