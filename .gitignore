@@ -10,6 +10,5 @@ list
 shp_files
 DC_map_2011.html
 presentation
-*.html
 *.png
 .json

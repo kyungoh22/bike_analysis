@@ -1,0 +1,40 @@
+Part 1
+
+Data overview:
+- spans the years 2011–2012 
+- number of rides by registered and casual users per day and per hour
+
+Data source:
+https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset
+
+Raw data:       './data/day.csv' 
+                './data/hour.csv'
+Cleaned data:   './cleaned_data/df_daily.csv' 
+                './cleaned_data/df_hourly.csv'
+
+
+Part 2
+
+Data overview:
+- spans the years 2010–2019
+– I created two aggregated dataframes, showing number of registered on daily and hourly basis
+– I also create a fuller dataframe (df_20xx) for each year, including date, duration, start station, end station, member type of each ride. 
+
+Data source:
+https://s3.amazonaws.com/capitalbikeshare-data/index.html
+
+Raw data:      './data/years_2010_to_2019'
+
+Cleaned data: './cleaned_data/df_all_agg_daily.csv'
+              './cleaned_data/df_all_agg_hourly.csv'
+              './cleaned_data/df_all_years.csv'
+              './cleaned_data/df_20xx.csv'
+
+
+Part 3
+
+Data overview:
+- spans the years 2010–2019
+- For each year from 2011 to 2019, I create a separate dataframe with the columns "station", "region", "longitude", "latitude".
+
+Cleaned data: './cleaned_data/stations_20xx.csv'
