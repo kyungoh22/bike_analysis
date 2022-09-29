@@ -1,11 +1,13 @@
 # Capital Bike Share 
 
-* This project comprises the following parts: 
+* This project analyses data from the bike-share company Capital Bike Share, based in Washington DC. 
+* The project comprises the following parts
 
 ### 1) Data wrangling
 * Please see the notebook **data_wrangling.ipynb**
 
 ### 2) EDA 
+* Please see the notebook **EDA.ipynb**
 
 #### EDA Part 1: User behaviour analysis
 * Covers the years 2011–2012
@@ -16,7 +18,8 @@
 * Analyse trend and seasonality in the number of rides by registered and non-registered customers
 
 ### 3) Interactive maps
-* Use the package folium to create interactive maps
+* Please see the notebook **interactive_map.ipynb**
+* Here I use the package folium to create interactive maps that visualise the most popular docking stations over the years
 
 #### Map 1
 * Please follow this [link] ()
@@ -31,6 +34,9 @@
 * You can also freeze the time using the slider
 
 ### 4) Linear regression: predict number of rides
+
+* Please see the notebook **linear_regression.ipynb**
+
 * Feature selection / reduction using VIF and p-value
 * Alternate feature selection using common sense and domain knowledge
 * Building linear regression model to predict number of users based on selected features
