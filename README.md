@@ -22,13 +22,13 @@
 * Here I use the package folium to create interactive maps that visualise the most popular docking stations over the years
 
 #### Map 1
-* Please follow this [link] ()
+* Please follow this [link] (http://nbviewer.org/github/kyungoh22/bike_analysis/blob/main/interactive_maps/top_20_stations.html)
 * Map showing top 20 docking stations for each of the years 2011–2019
 * The map differentiates between registered and non-registered customers
 * On the top right, you can choose the year and registered vs casual customers
 
 #### Map 2
-* Please follow this [link] ()
+* Please follow this [link] (http://nbviewer.org/github/kyungoh22/bike_analysis/blob/main/interactive_maps/heat_map_with_time.html)
 * Heat map with time, showing the density of rides per station during the years 2011–2019
 * Please click the "play" button on the bottom left
 * You can also freeze the time using the slider
